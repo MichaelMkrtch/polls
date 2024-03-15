@@ -9,7 +9,7 @@
   }
 
   .copyright {
-    border-top: 1px solid #ddd;
+    border-top: 1px solid #eef0f3;
     color: #aaa;
     display: inline-block;
     font-size: 14px;

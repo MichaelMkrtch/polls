@@ -9,7 +9,7 @@
 
 <style>
   header {
-    background: #eeeeee;
+    background: #eef0f3;
     padding: 20px;
   }
 

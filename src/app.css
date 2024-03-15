@@ -9,6 +9,10 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+html {
+  background-color: #fdfdfe;
+}
+
 body {
   margin: 0;
 }
