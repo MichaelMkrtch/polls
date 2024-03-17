@@ -1,5 +1,5 @@
 :root {
-  font-family: "Space Grotesk", Inter, system-ui, sans-serif;
+  font-family: 'Space Grotesk', Inter, system-ui, sans-serif;
   line-height: 1.5;
   font-weight: 400;
 
@@ -10,9 +10,11 @@
 }
 
 html {
-  background-color: #fdfdfe;
+  /* background-color: #fdfdfe; */
+  background-color: #12131a;
 }
 
 body {
+  color: #dee2ec;
   margin: 0;
 }

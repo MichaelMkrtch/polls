@@ -31,7 +31,6 @@
   li {
     margin: 0 16px;
     font-size: 18px;
-    color: #555;
     cursor: pointer;
   }
 

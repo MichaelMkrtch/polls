@@ -10,7 +10,7 @@
   button {
     background: linear-gradient(rgba(255, 255, 255, 0.2), transparent);
     border-radius: 6px;
-    color: white;
+    color: #dee2ec;
     filter: drop-shadow(1px 2px 3px rgba(97, 64, 239, 0.4));
     font-family: 'Space Grotesk';
     font-weight: 600;
