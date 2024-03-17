@@ -1,5 +1,5 @@
 <script>
-  import { createEventDispatcher } from "svelte";
+  import { createEventDispatcher } from 'svelte';
   const dispatch = createEventDispatcher();
 
   export let items;
@@ -36,8 +36,8 @@
   }
 
   .active {
-    color: #1a9597;
-    border-bottom: 2px solid #1a9597;
+    color: #6140ef;
+    border-bottom: 2px solid #6140ef;
     padding-bottom: 8px;
   }
 </style>
